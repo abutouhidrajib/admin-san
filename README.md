@@ -26,7 +26,7 @@ $ sudo apt-get --force-yes -y install git python3 python3-pip
 
 ## Getting and Running Admin-san
 ```sh
-$ https://github.com/just4tools/admin-san.git
+$ git clone https://github.com/just4tools/admin-san.git
 $ cd admin-san
 $ sudo pip3 install -r requirements.txt
 $ python3 admin-san.py
