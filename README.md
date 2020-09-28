@@ -1,4 +1,4 @@
-# ADMIN-SAN
+# 📸 ADMIN-SAN
 **This is the official and only repository of the Admin-san project.**
 ```
 $ sudo apt-get --force-yes -y install git python3 python3-pip
